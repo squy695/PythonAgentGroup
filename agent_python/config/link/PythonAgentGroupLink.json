@@ -1,0 +1,10 @@
+{
+  "group": "PythonAgentGroup",
+  "links": [
+    {
+      "source": "start",
+      "target": "PythonAgentGroup/python_agent",
+      "type": "hard"
+    }
+  ]
+}
