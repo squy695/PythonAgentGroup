@@ -1,5 +1,5 @@
 # graph 名称
-name: "PythonAgentService"
+name: "PythonAgentGroup"
 
 # graph 详细描述
 description: "python代码生成 智能体网络"
